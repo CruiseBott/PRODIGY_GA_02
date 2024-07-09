@@ -1,1 +1,2 @@
+# Stable diffusion
 Stable Diffusion Online is a free Artificial Intelligence image generator that efficiently creates high-quality images from simple text prompts. It's designed for designers, artists, and creatives who need quick and easy image creation. Whether you're looking to visualize concepts, explore new creative avenues, or enhance your content with compelling visuals, Stable Diffusion simplifies the process with its user-friendly interface and powerful AI algorithms.
